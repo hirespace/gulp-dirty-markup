@@ -1,6 +1,6 @@
 {
   "name": "gulp-dirty-markup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gulp wrapper for the dirty markup node module",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,12 @@
     "url": "https://github.com/hirespace/gulp-dirty-markup/issues"
   },
   "homepage": "https://github.com/hirespace/gulp-dirty-markup#readme",
-  "keywords": ["parser", "html", "markup", "gulp"],
+  "keywords": [
+    "parser",
+    "html",
+    "markup",
+    "gulp"
+  ],
   "dependencies": {
     "dirty-markup": "^1.0.0",
     "gulp-util": "^3.0.7",
