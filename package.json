@@ -1,6 +1,6 @@
 {
   "name": "gulp-dirty-markup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp wrapper for the dirty markup node module",
   "main": "index.js",
   "scripts": {
