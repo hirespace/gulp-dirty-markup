@@ -1,0 +1,24 @@
+{
+  "name": "gulp-dirty-markup",
+  "version": "1.0.0",
+  "description": "Gulp wrapper for the dirty markup node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirespace/gulp-dirty-markup.git"
+  },
+  "author": "Thomas Owers <thomas@hirespace.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirespace/gulp-dirty-markup/issues"
+  },
+  "homepage": "https://github.com/hirespace/gulp-dirty-markup#readme",
+  "dependencies": {
+    "dirty-markup": "^1.0.0",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
